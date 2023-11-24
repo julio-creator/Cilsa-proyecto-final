@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+img {
+  height: 440px;
+}
+
+.img-acercade {
+  height: 300px;
+}
+
+.parrafo {
+  text-align: justify;
+}
+
+.contacto {
+  font-weight: bold;
+}
+
+.btn {
+  background-color: black;
+  border: 2px solid white;
+}
+
+form {
+  background-color: rgb(74, 206, 215);
+  border: 3px solid black;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.input {
+  border: 2px solid black;
+}
+
+.input:hover {
+  background-color: rgb(132, 124, 139);
+}
+
+i {
+  color: black;
+  display: inline-block;
+  padding: 6px 6px;
+}
+
+i:hover {
+  color: white;
+  background-color: black;
+  padding: 6px 6px;
+  transition: all 0.4s;
+}
+
+.paisajes {
+  width: 200px;
+}
